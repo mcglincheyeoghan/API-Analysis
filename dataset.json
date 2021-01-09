@@ -1,0 +1,440 @@
+{
+	"cnt": 11,
+	"list": [
+		{
+			"coord": {
+				"lon": -6.25,
+				"lat": 53.36
+			},
+			"sys": {
+				"country": "IE",
+				"timezone": 0,
+				"sunrise": 1603869397,
+				"sunset": 1603904441
+			},
+			"weather": [
+				{
+					"id": 802,
+					"main": "Clouds",
+					"description": "scattered clouds",
+					"icon": "03n"
+				}
+			],
+			"main": {
+				"temp": 280.22,
+				"feels_like": 274.57,
+				"temp_min": 279.82,
+				"temp_max": 280.37,
+				"pressure": 1000,
+				"humidity": 81
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 6.2,
+				"deg": 240
+			},
+			"clouds": {
+				"all": 40
+			},
+			"dt": 1603919524,
+			"id": 7778677,
+			"name": "Dublin City"
+		},
+		{
+			"coord": {
+				"lon": 27.91,
+				"lat": -33.02
+			},
+			"sys": {
+				"country": "ZA",
+				"timezone": 7200,
+				"sunrise": 1603854762,
+				"sunset": 1603902680
+			},
+			"weather": [
+				{
+					"id": 804,
+					"main": "Clouds",
+					"description": "overcast clouds",
+					"icon": "04n"
+				}
+			],
+			"main": {
+				"temp": 293.55,
+				"feels_like": 295.09,
+				"temp_min": 293.55,
+				"temp_max": 293.55,
+				"pressure": 1011,
+				"sea_level": 1011,
+				"grnd_level": 1007,
+				"humidity": 81
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 1.21,
+				"deg": 171
+			},
+			"clouds": {
+				"all": 93
+			},
+			"dt": 1603918971,
+			"id": 1006984,
+			"name": "East London"
+		},
+		{
+			"coord": {
+				"lon": 2.34,
+				"lat": 48.86
+			},
+			"sys": {
+				"country": "FR",
+				"timezone": 3600,
+				"sunrise": 1603866693,
+				"sunset": 1603903022
+			},
+			"weather": [
+				{
+					"id": 804,
+					"main": "Clouds",
+					"description": "overcast clouds",
+					"icon": "04n"
+				}
+			],
+			"main": {
+				"temp": 285.7,
+				"feels_like": 280.89,
+				"temp_min": 284.82,
+				"temp_max": 286.15,
+				"pressure": 1012,
+				"humidity": 81
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 6.7,
+				"deg": 240
+			},
+			"clouds": {
+				"all": 90
+			},
+			"dt": 1603919472,
+			"id": 6618607,
+			"name": "Paris 01"
+		},
+		{
+			"coord": {
+				"lon": 13.41,
+				"lat": 52.48
+			},
+			"sys": {
+				"country": "DE",
+				"timezone": 3600,
+				"sunrise": 1603864537,
+				"sunset": 1603899865
+			},
+			"weather": [
+				{
+					"id": 800,
+					"main": "Clear",
+					"description": "clear sky",
+					"icon": "01n"
+				}
+			],
+			"main": {
+				"temp": 283.12,
+				"feels_like": 280.46,
+				"temp_min": 280.93,
+				"temp_max": 284.82,
+				"pressure": 1010,
+				"humidity": 87
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 3.1,
+				"deg": 190
+			},
+			"clouds": {
+				"all": 0
+			},
+			"dt": 1603919665,
+			"id": 7290253,
+			"name": "Berlin Tempelhof"
+		},
+		{
+			"coord": {
+				"lon": -122.42,
+				"lat": 37.77
+			},
+			"sys": {
+				"country": "US",
+				"timezone": -25200,
+				"sunrise": 1603895485,
+				"sunset": 1603934113
+			},
+			"weather": [
+				{
+					"id": 800,
+					"main": "Clear",
+					"description": "clear sky",
+					"icon": "01d"
+				}
+			],
+			"main": {
+				"temp": 294.87,
+				"feels_like": 293.93,
+				"temp_min": 292.15,
+				"temp_max": 295.93,
+				"pressure": 1019,
+				"humidity": 48
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 1.5,
+				"deg": 50
+			},
+			"clouds": {
+				"all": 1
+			},
+			"dt": 1603919000,
+			"id": 5391959,
+			"name": "San Francisco"
+		},
+		{
+			"coord": {
+				"lon": 149.13,
+				"lat": -35.28
+			},
+			"sys": {
+				"country": "AU",
+				"timezone": 39600,
+				"sunrise": 1603911831,
+				"sunset": 1603960221
+			},
+			"weather": [
+				{
+					"id": 500,
+					"main": "Rain",
+					"description": "light rain",
+					"icon": "10d"
+				}
+			],
+			"main": {
+				"temp": 282.58,
+				"feels_like": 281.77,
+				"temp_min": 282.04,
+				"temp_max": 283.71,
+				"pressure": 1014,
+				"humidity": 100
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 1,
+				"deg": 90
+			},
+			"clouds": {
+				"all": 96
+			},
+			"dt": 1603918984,
+			"id": 2172517,
+			"name": "Canberra"
+		},
+		{
+			"coord": {
+				"lon": 116.4,
+				"lat": 39.91
+			},
+			"sys": {
+				"country": "CN",
+				"timezone": 28800,
+				"sunrise": 1603924787,
+				"sunset": 1603962974
+			},
+			"weather": [
+				{
+					"id": 800,
+					"main": "Clear",
+					"description": "clear sky",
+					"icon": "01n"
+				}
+			],
+			"main": {
+				"temp": 281.64,
+				"feels_like": 280.08,
+				"temp_min": 274.15,
+				"temp_max": 285.93,
+				"pressure": 1027,
+				"humidity": 86
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 1,
+				"deg": 24
+			},
+			"clouds": {
+				"all": 0
+			},
+			"dt": 1603918980,
+			"id": 1816670,
+			"name": "Beijing"
+		},
+		{
+			"coord": {
+				"lon": 125.93,
+				"lat": 38.99
+			},
+			"sys": {
+				"country": "KP",
+				"timezone": 32400,
+				"sunrise": 1603922412,
+				"sunset": 1603960776
+			},
+			"weather": [
+				{
+					"id": 803,
+					"main": "Clouds",
+					"description": "broken clouds",
+					"icon": "04n"
+				}
+			],
+			"main": {
+				"temp": 276.88,
+				"feels_like": 273.32,
+				"temp_min": 276.88,
+				"temp_max": 276.88,
+				"pressure": 1025,
+				"sea_level": 1025,
+				"grnd_level": 1021,
+				"humidity": 69
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 1.96,
+				"deg": 359
+			},
+			"clouds": {
+				"all": 70
+			},
+			"dt": 1603919194,
+			"id": 1871856,
+			"name": "Pyongyang"
+		},
+		{
+			"coord": {
+				"lon": -42.5,
+				"lat": -22
+			},
+			"sys": {
+				"country": "BR",
+				"timezone": -10800,
+				"sunrise": 1603872481,
+				"sunset": 1603918757
+			},
+			"weather": [
+				{
+					"id": 801,
+					"main": "Clouds",
+					"description": "few clouds",
+					"icon": "02n"
+				}
+			],
+			"main": {
+				"temp": 296.71,
+				"feels_like": 299.51,
+				"temp_min": 296.71,
+				"temp_max": 296.71,
+				"pressure": 1006,
+				"sea_level": 1006,
+				"grnd_level": 938,
+				"humidity": 83
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 1.62,
+				"deg": 148
+			},
+			"clouds": {
+				"all": 16
+			},
+			"dt": 1603919391,
+			"id": 3451189,
+			"name": "State of Rio de Janeiro"
+		},
+		{
+			"coord": {
+				"lon": 31.25,
+				"lat": 30.06
+			},
+			"sys": {
+				"country": "EG",
+				"timezone": 7200,
+				"sunrise": 1603857959,
+				"sunset": 1603897880
+			},
+			"weather": [
+				{
+					"id": 800,
+					"main": "Clear",
+					"description": "clear sky",
+					"icon": "01n"
+				}
+			],
+			"main": {
+				"temp": 296.04,
+				"feels_like": 294.75,
+				"temp_min": 295.93,
+				"temp_max": 296.15,
+				"pressure": 1017,
+				"humidity": 73
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 5.7,
+				"deg": 40
+			},
+			"clouds": {
+				"all": 0
+			},
+			"dt": 1603918968,
+			"id": 360630,
+			"name": "Cairo"
+		},
+		{
+			"coord": {
+				"lon": -99.13,
+				"lat": 19.43
+			},
+			"sys": {
+				"country": "MX",
+				"timezone": -21600,
+				"sunrise": 1603888545,
+				"sunset": 1603929874
+			},
+			"weather": [
+				{
+					"id": 801,
+					"main": "Clouds",
+					"description": "few clouds",
+					"icon": "02d"
+				}
+			],
+			"main": {
+				"temp": 298.91,
+				"feels_like": 296.38,
+				"temp_min": 298.71,
+				"temp_max": 299.15,
+				"pressure": 1022,
+				"humidity": 27
+			},
+			"visibility": 8047,
+			"wind": {
+				"speed": 2.1,
+				"deg": 200
+			},
+			"clouds": {
+				"all": 20
+			},
+			"dt": 1603919011,
+			"id": 3530597,
+			"name": "Mexico City"
+		}
+	]
+}
