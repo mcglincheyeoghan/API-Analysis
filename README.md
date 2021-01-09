@@ -13,6 +13,8 @@ using an appropriate structure, applying any necessary preprocessing steps, anal
 characterising and summarising the cleaned dataset using tables and visualisations and 
 summarising the insights that were gained as a result of the analysis of the dataset
 
+The Project1Part1 file involved creating the JSON file and the Project1Part2 file cleaned, analysed and visualised the data from that JSON file
+
 I received an A+ for this assignment because the assignment had:
 - Interesting choice of API, and good level of data collection.
 - Very good discussion of the preprocessing and analysis steps, detailed explanations of the results.
